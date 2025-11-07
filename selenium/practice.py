@@ -35,3 +35,4 @@ for n in range(len(date_element)):
     
     
 print(events)
+driver.quit()
