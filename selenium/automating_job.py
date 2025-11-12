@@ -59,7 +59,9 @@ for i in job_lists:
 job_click=driver.find_element(By.ID, value='ember170')
 job_click.click()
 apply_button=driver.find_element(By.ID,value='jobs-apply-button-id')
-apply_button.click()     
+apply_button.click()  
+
+#   
         
         
         
